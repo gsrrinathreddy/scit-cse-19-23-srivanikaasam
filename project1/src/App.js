@@ -8,6 +8,11 @@ import Qualification from './pages/Qualification';
 import Skills from './pages/Skills';
 import Experience from './pages/Experience';
 import Hobbies from './pages/Hobbies';
+import Workshops from './pages/Workshops';
+import Certifications from './pages/Certifications';
+import Contactme from './pages/Contactme';
+
+
 
 function App(){
 return(
@@ -20,6 +25,14 @@ return(
       <Route path="Skills" element={<Skills/>}/>
       <Route path="Experience" element={<Experience/>}/>
       <Route path="Hobbies" element={<Hobbies/>}/>
+      <Route path="Workshops" element={<Workshops/>}/>
+      <Route path="Certifications" element={<Certifications/>}/>
+      <Route path="Contactme" element={<Contactme/>}/>
+      
+
+
+
+
       </Routes>
       
        

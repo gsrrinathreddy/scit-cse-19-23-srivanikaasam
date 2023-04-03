@@ -57,7 +57,7 @@ export default function Qualifications() {
       <Divider variant="inset" component="li" />
       <ListItem alignItems="flex-start">
         <ListItemAvatar>
-          <Avatar alt="Sai SI" src="https://55knots.com.au/wp-content/uploads/2021/01/Zanj-Avatar-scaled.jpg" />
+          <Avatar alt="Sai SI" src="" />
         </ListItemAvatar>
         <ListItemText
           primary="Nalanda Vidhyanikethan High School"
